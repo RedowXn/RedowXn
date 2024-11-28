@@ -60,9 +60,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/redowanahmed08/redowanahmed08/output/snake.svg" alt="Snake animation" />
-
-###

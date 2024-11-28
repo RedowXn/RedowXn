@@ -1,4 +1,4 @@
-[![MasterHead](banner.gif)](https://redowanahmed.info)
+[![MasterHead](banner_image.gif)](https://redowanahmed.info)
 
 ###
 

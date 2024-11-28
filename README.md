@@ -1,7 +1,5 @@
 [![MasterHead](banner.gif)](https://redowanahmed.info)
 
-<h2 align="center">Hello There,  I'm Redowan Ahmed</h2>
-
 ###
 
 <p align="center">I am a passionate Frontend Developer skilled in modern web technologies, focused on building responsive and user-friendly websites. I enjoy learning new technologies and creating full-stack applications that deliver the best user experience. Always ready to take on innovative projects and embrace new challenges 💻</p>

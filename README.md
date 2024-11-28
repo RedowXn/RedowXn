@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)](https://redowanahmed.info)
+[![MasterHead](banner.gif)](https://redowanahmed.info)
 
 <h2 align="center">Hello There,  I'm Redowan Ahmed</h2>
 

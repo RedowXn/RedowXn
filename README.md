@@ -6,6 +6,7 @@
 
 ###
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RedowXn&label=Profile%20views&color=0e75b6&style=flat" alt="Redowan Ahmed Proile Views"/></p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RedowXn) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@RedowXn) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RedowXn) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@RedowXn) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/RedowXn) 
@@ -24,5 +25,3 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/RedowXn) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/RedowXn) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/RedowXn) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

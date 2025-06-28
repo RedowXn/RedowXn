@@ -3,7 +3,7 @@
 <h2 align="center">Hello There, I'm Redowan &lt;/&gt;</h2>
 
 <p align="center">
-Currently a Full Stack Software Engineer at <a href="https://qreware.com" target="_blank" style="color: inherit; font-weight: bold; text-decoration: none;">@Qreware</a> | building scalable systems, clean UI, andAI powered applications. Skilled across the entire tech stack from low level programming to cloud infrastructure solving real world problems through code and design.
+Currently a Full Stack Software Engineer at <a href="https://qreware.com" target="_blank" style="color: inherit; font-weight: bold; text-decoration: none;">@Qreware</a> || building scalable systems, clean UI, andAI powered applications. Skilled across the entire tech stack from low level programming to cloud infrastructure solving real world problems through code and design.
 </p>
 
 

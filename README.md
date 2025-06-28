@@ -22,6 +22,10 @@
 </div>
 
 <br>
+
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=cpp,py,ts,js,go,rust,html,css,bash,react,nextjs,tailwind,svelte,nodejs,nestjs,express,django,fastapi,postgres,mysql,sqlite,mongodb,redis,docker,kubernetes,terraform,githubactions,nginx,cloudflare,aws,git,github,vscode,neovim,figma,postman,jest,cypress,pytorch,tensorflow,vite,cmake,nix,linux,ubuntu" alt="Tech Stack Icons" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cpp,py,ts,js,go,rust,bash,react,nextjs,tailwind" /></a><br>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,django,fastapi,postgres,mysql,mongodb,redis,docker" /></a><br>
+  <a href="#"><img src="https://skillicons.dev/icons?i=kubernetes,terraform,githubactions,nginx,cloudflare,aws,git,github,vscode,neovim" /></a><br>
+  <a href="#"><img src="https://skillicons.dev/icons?i=figma,postman,jest,cypress,pytorch,tensorflow,sklearn,pnpm,vite,webpack" /></a>
 </p>

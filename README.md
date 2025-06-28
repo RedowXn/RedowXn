@@ -15,7 +15,6 @@ Currently a Full Stack Software Engineer at <a href="https://qreware.com" target
     <img src="https://github-readme-stats.vercel.app/api?username=redowxn&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true" width="400" />
 </div>
 
-#
 
 <h3 align="center">My Tech Stack ⇩<h3>
 

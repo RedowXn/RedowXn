@@ -12,8 +12,8 @@ Currently a Full Stack Software Engineer at <a href="https://qreware.com" target
 <h3 align="center">Github Stats ⇩<h3>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=redowxn&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" width="400" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=redowxn&theme=github_dark_dimmed&hide_border=false" width="438" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=redowxn&theme=material-palenight&hide_border=true" width="438" />
+    <img src="https://github-readme-stats.vercel.app/api?username=redowxn&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true" width="400" />
 </div>
 
 

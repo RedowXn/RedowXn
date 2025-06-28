@@ -11,11 +11,10 @@
 <h3 align="center">Github Stats ⇩<h3>
 
 <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RedowXn&theme=tokyonight&hide_border=true" width="425" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=RedowXn&show_icons=true&theme=tokyonight&hide_border=true&locale=en" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api?username=redowxn&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" width="420" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=redowxn&theme=github_dark_dimmed&hide_border=false" width="460" />
 </div>
+
 
 #
 

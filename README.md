@@ -24,7 +24,9 @@
 <br>
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=cpp,py,ts,js,go,rust,bash,react,nextjs,tailwind,nodejs,nestjs" /></a><br>
-  <a href="#"><img src="https://skillicons.dev/icons?i=express,django,fastapi,postgres,mysql,mongodb,redis,docker,kubernetes,terraform,githubactions,nginx" /></a><br>
-  <a href="#"><img src="https://skillicons.dev/icons?i=cloudflare,aws,git,github,vscode,neovim,figma,postman,jest,cypress,pytorch,tensorflow" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cpp,py,ts,js,go,rust,bash,react,nextjs,tailwind,nodejs,nestjs,express" /></a><br>
+  <a href="#"><img src="https://skillicons.dev/icons?i=django,fastapi,postgres,mysql,mongodb,redis,docker,kubernetes,terraform,githubactions,nginx,cloudflare,aws" /></a><br>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,pytorch,tensorflow,vite" /></a>
 </p>
+
+

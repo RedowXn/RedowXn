@@ -1,9 +1,8 @@
 [![MasterHead](banner.gif)](https://redowanahmed.com)
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=RedowXn&label=Profile%20views&color=0e75b6&style=flat" alt="Redowan Ahmed Proile Views"/></p>
 
-#
-
-<p align="center">I'm A Passionate Software Developer, Skilled In Modern Web Technologies, Focused On Building Responsive And User-Friendly Websites. I Enjoy Learning New Technologies And Creating Full-Stack Applications That Deliver The Best User Experience. Always Ready To Take On Innovative Projects And Embrace New Challenges 💻</p>
+<p align="center">
+  I'm a Full Stack Software Engineer with a passion for building scalable systems, clean UI, and AI powered applications. Skilled across the entire tech stack from low level programming to cloud infrastructure, I love solving real world problems through code and design.
+</p>
 
 #
 

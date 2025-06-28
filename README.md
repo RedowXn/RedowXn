@@ -12,7 +12,7 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=redowxn&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" width="400" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=redowxn&theme=github_dark_dimmed&hide_border=false" width="440" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=redowxn&theme=github_dark_dimmed&hide_border=false" width="438" />
 </div>
 
 

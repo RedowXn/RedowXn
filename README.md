@@ -11,25 +11,20 @@
 <h3 align="center">Github Stats ⇩<h3>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RedowXn&theme=tokyonight&hide_border=true" width="430" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RedowXn&theme=tokyonight&hide_border=true" width="475" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=RedowXn&show_icons=true&theme=tokyonight&hide_border=true&locale=en" width="410" />
-      </td>
-    </tr>
-  </table>
+        <img src="https://github-readme-stats.vercel.app/api?username=RedowXn&show_icons=true&theme=tokyonight&hide_border=true&locale=en" width="450" />
 </div>
 
+#
 
 <h3 align="center">Tech Stack ⇩<h3>
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=cpp,py,ts,js,go,rust,bash,react,nextjs,tailwind,nodejs,nestjs,express" /></a><br>
-  <a href="#"><img src="https://skillicons.dev/icons?i=django,fastapi,postgres,mysql,mongodb,redis,docker,kubernetes,terraform,githubactions,nginx,cloudflare,aws" /></a><br>
-  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,pytorch,tensorflow,vite" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,py,go,java,js,ts,react,nextjs,vue,nestjs,nuxtjs,express" /></a><br>
+  <a href="#"><img src="https://skillicons.dev/icons?i=django,flask,fastapi,postgres,mysql,mongodb,supabase,redis,docker,kubernetes,terraform,nginx,aws" /></a><br>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,kali,webstorm,figma,postman,pytorch,tensorflow,gcp" /></a>
 </p>
 
 #

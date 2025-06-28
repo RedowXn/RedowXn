@@ -11,10 +11,10 @@
 <h3 align="center">Github Stats ⇩<h3>
 
 <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RedowXn&theme=tokyonight&hide_border=true" width="475" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RedowXn&theme=tokyonight&hide_border=true" width="435" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=RedowXn&show_icons=true&theme=tokyonight&hide_border=true&locale=en" width="450" />
+        <img src="https://github-readme-stats.vercel.app/api?username=RedowXn&show_icons=true&theme=tokyonight&hide_border=true&locale=en" width="410" />
 </div>
 
 #
@@ -26,5 +26,3 @@
   <a href="#"><img src="https://skillicons.dev/icons?i=django,flask,fastapi,postgres,mysql,mongodb,supabase,redis,docker,kubernetes,terraform,nginx,aws" /></a><br>
   <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,kali,webstorm,figma,postman,pytorch,tensorflow,gcp" /></a>
 </p>
-
-#

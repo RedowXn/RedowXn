@@ -3,8 +3,9 @@
 #
 
 <p align="center">
-  I'm a Full Stack Software Engineer with a passion for building scalable systems, clean UI, and AI powered applications. Skilled across the entire tech stack from low level programming to cloud infrastructure, I love solving real world problems through code and design.
+  Full Stack Software Engineer at <a href="https://qreware.com" target="_blank" style="color: inherit; font-weight: bold; text-decoration: none;">@Qreware</a>, building scalable systems, clean UI, and AI powered applications. Skilled across the entire tech stack from low level programming to cloud infrastructure solving real world problems through code and design.
 </p>
+
 
 #
 

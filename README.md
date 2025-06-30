@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RedowXn/RedowXn/c78af521857e335569351833c9688cace7286ca6/snake_animation.svg" />
-</div>
+[![MasterHead](coverimg.png)](https://redowanahmed.com)
 
 #
 
@@ -10,6 +8,9 @@ Currently a Full Stack Software Engineer at <a href="https://qreware.com" target
 
 #
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RedowXn/RedowXn/c78af521857e335569351833c9688cace7286ca6/snake_animation.svg" />
+</div>
 
 <h3 align="center">My Github Stats ⇩<h3>
 

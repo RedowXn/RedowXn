@@ -8,17 +8,16 @@ Currently a Full Stack Software Engineer at <a href="https://qreware.com" target
 
 #
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RedowXn/RedowXn/c78af521857e335569351833c9688cace7286ca6/snake_animation.svg" />
+</div>
+
+
 <h3 align="center">My Github Stats ⇩<h3>
 
 <div align="center">
 <img src="https://nirzak-streak-stats.vercel.app/?user=redowxn&theme=material-palenight&hide_border=true" width="438" />
     <img src="https://github-readme-stats.vercel.app/api?username=redowxn&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true" width="399" />
-</div>
-
-#
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RedowXn/RedowXn/279422517c752df4e89f23bdb906bc0b7acbe094/snake.svg" />
 </div>
 
 #

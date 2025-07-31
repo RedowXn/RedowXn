@@ -1,7 +1,7 @@
 [![MasterHead](coverimg.png)](https://redowanahmed.com)
 
 <p align="center">
-Currently a Full Stack Software Engineer at <a href="https://qreware.com" target="_blank" style="color: inherit; font-weight: bold; text-decoration: none;">@Qreware</a> || building scalable systems, clean UI, and AI powered applications. Skilled across the entire tech stack from low level programming to cloud infrastructure solving real world problems through code and design.
+Building scalable systems, clean UI, and AI powered applications. Skilled across the entire tech stack from low level programming to cloud infrastructure solving real world problems through code and design.
 </p>
 
 #

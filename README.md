@@ -13,10 +13,11 @@ Building scalable systems, clean UI, and AI powered applications. Skilled across
 
 #
 
+<!--
 <h3 align="center">My Tech Stack ⇩<h3>
 
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,py,go,java,js,ts,react,nextjs,vue,nestjs,nuxtjs,express" /></a><br>
   <a href="#"><img src="https://skillicons.dev/icons?i=django,flask,fastapi,postgres,mysql,mongodb,supabase,redis,docker,kubernetes,terraform,nginx,aws" /></a><br>
   <a href="#"><img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,linux,ubuntu,kali,webstorm,figma,postman,pytorch,tensorflow,gcp" /></a>
-</p>
+</p> -->
